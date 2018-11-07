@@ -1,0 +1,16 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    background: antiquewhite;
+}
+
+.headerTitle {
+    text-align: center;
+}
+
+.inputBox {
+    background-color: white;
+    color: grey;
+}
+.searchButton {
+    background-color: white;
+}
