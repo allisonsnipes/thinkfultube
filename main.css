@@ -10,7 +10,11 @@
 .inputBox {
     background-color: white;
     color: grey;
+    height: 30px;
+    width: 150px;
 }
 .searchButton {
     background-color: white;
+    height: 200px;
+    width: 100px;
 }
