@@ -18,3 +18,22 @@
     height: 200px;
     width: 100px;
 }
+
+.previousResults, nextResults {
+    background-color: darkcyan;
+    color: black;
+}
+
+.round {
+    border-radius: 60%;
+}
+
+a:hover {
+    background-color: coral;
+    color: black;
+}
+
+.hidden {
+    display: none;
+}
+
